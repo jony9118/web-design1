@@ -1,0 +1,97 @@
+body{
+	margin: 0px;
+}
+div{
+
+width: 997px;
+
+width: 854px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+margin-top: 45px;
+
+background: #a3a9a8;
+
+padding: 50px;
+}
+h1{ border-bottom: 1px solid black;
+
+margin-left: auto;
+
+margin-right: auto;
+
+text-align: center;
+margin-top: 0px;
+}
+.jony{
+	color: blue;
+}
+.rony{
+	color: red;
+
+}
+.bristy{
+	color: #eaea00;
+}
+.borsha{
+	color: blue;
+}
+.khushi{
+	color: green;
+}
+.ofina{
+	color: red;
+}
+p{
+  width: -1px;
+  margin-top:0;
+  text-align: center;
+  padding: 44px;
+  font-size: 25px;
+  text-align: -webkit-match-parent;
+}
+
+img{
+	max-width: 100%;
+	margin: 0px;
+}
+.or{
+	color: blue;
+}
+.info{
+	color: red;
+}
+.un{
+	color: green;
+}
+.use{
+	color: #ffd22d;
+}
+h2{
+	
+width: 139px;
+	
+margin: 0;
+	
+width: 139px;
+}
+.lorem{
+	width: 781px;
+	margin: 0;
+	padding: 0;
+}
+h3{
+	
+background: #114a11;
+	
+color: #d6c4c4;
+	
+text-align: center;
+	
+width: 300px;
+	
+padding: 68px;
+}
